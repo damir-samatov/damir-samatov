@@ -5,23 +5,23 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=damir-samatov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=200&section=header&text=Damir Samatov&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+damir-samatov;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+1+YEAR+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Damir+Samatov;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+1+YEAR+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=damir-samatov&theme=react-dark&hide_border=true&area=true" />
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=damir-samatov&bg_color=00000000&color=708090&line=39FF14&point=39FF14&area=true&hide_border=true&custom_title=Activity" />
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=damir-samatov&theme=react-dark&hide_border=true&area=true) -->
 </div> 
  
 <!-- ./STAT -->
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=damir-samatov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="damir-samatov github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damir-samatov&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=damir-samatov&show_icons=true&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117" alt="Damir Samatov's github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damir-samatov&layout=compact&hide_border=true&title_color=39FF14&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <!-- ./STATS  -->
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=damir-samatov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="damir-samatov" /></div>
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=damir-samatov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=ffffff" alt="Damir Samatov" /></div>
 <!-- <div align="center"   >   
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
@@ -55,9 +55,9 @@
 
 ### Tools:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=fffff)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=fffff)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=fffff)&nbsp;
 
 ### Other Knowledge:
 
@@ -68,7 +68,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{damir-samatov}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=footer"/>
 
 <!-- |                 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api? username=damir-samatov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="damir-samatov github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damir-samatov&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
 | ------------- | ------------- | -->
